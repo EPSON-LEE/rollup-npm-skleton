@@ -1,0 +1,1 @@
+{"version":3,"file":"rollup-project.es.js","sources":["../src/main.ts"],"sourcesContent":["// src/sum.ts\ntype sumType = (a: number, b: number) => number\n\nconst sum: sumType = (a, b) => a + b\n\nexport {\n  sum\n}\n"],"names":[],"mappings":"AAGA,IAAM,GAAG,GAAY,UAAC,CAAC,EAAE,CAAC,EAAK,EAAA,OAAA,CAAC,GAAG,CAAC,CAAA;;;;"}
